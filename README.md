@@ -22,7 +22,14 @@ Suburban cities had 89% less rides, 132% less drivers, 69% less in total fares, 
 </br>
 
 It should also be noted that there appears to have been a stark downturn in total fares for urban cities for at least one week during April of 2019.
-<br>
+
+</br>
+</br>
+
+## Resources
+- Data Sources: city_data.csv, ride_data.csv (located in "resource" file)
+- Software: Jupyter Notebook 5.0
+</br>
 
 ## Summary
 Our analyses shows that number of rides, drivers, and total sum of fares from the more populous city types are the highest, with urban being the most, then suburban, then rural.  Our analyses also shows the more populous a city, the lower the fare per ride and fare per driver, with rural cities bringining in the highest average fare per ride and fare per driver, then suburban cities, then urban.  This is likely due to the short distances between pick-ups and drop-offs, higher demand for rides, and greater saturation of drivers in more populous cities.
